@@ -1,6 +1,6 @@
 {
   "name": "ring-tile-card",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A Home Assistant card to visualise your sensor data",
   "main": "src/index.js",
   "scripts": {
